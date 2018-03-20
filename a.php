@@ -1,5 +1,5 @@
 <?php
 echo phpinfo();
-echo 2222;
+echo 22;
 echo 1111;
 ?>
